@@ -89,4 +89,4 @@ python -m unittest tests/test_sudoku.py
 
 ## 👨‍💻 Autor
 
-Generado para Juan Miguel Londoño (EAFIT – 2025).
+Generado por Juan Miguel Londoño Castrillon.
