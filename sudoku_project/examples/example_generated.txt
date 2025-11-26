@@ -1,1 +1,3 @@
-Placeholder generated puzzle.
+-- Este archivo es un placeholder. --
+-- Se llena cuando ejecutes:       --
+-- python sudoku_project.py generate --n 3 --clues 30 --out examples/example_generated.txt --
