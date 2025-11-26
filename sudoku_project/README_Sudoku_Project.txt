@@ -1,1 +1,0 @@
-Refer to canvas README content.
